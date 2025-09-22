@@ -9,5 +9,4 @@ class ProvaApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
